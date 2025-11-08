@@ -1,8 +1,5 @@
 title: "Ma page personnelle"
 description: "Page en cours de construction"
-author:
-  name: "Emilien Schultz"
-  email: "emilien.schultz@ensae.fr"
 markdown: kramdown
 highlighter: rouge
 theme: minima
