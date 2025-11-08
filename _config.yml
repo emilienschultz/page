@@ -1,3 +1,19 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Ma page personnelle"
+description: "Page en cours de construction"
+author:
+  name: "Emilien Schultz"
+  email: "emilien.schultz@ensae.fr"
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+paginate: 5 
+minima:
+  skin: classic
+  social_links:
+    - platform: github
+      user_url: "https://github.com/emilienschultz"
+timezone: Europe/Paris
+lang: fr
