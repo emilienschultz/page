@@ -4,12 +4,16 @@ title: "Accueil"
 permalink: /
 ---
 
-# page
+# Introduction
 
-## Partie 1
+# Activité personnelle
 
-Test
+## Programmation
 
-## Partie 2
+Python
 
-Test
+![](https://dotnetcopilot.com/wp-content/uploads/2021/07/github.png)
+
+## Musique
+
+Kae Tempest
