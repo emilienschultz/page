@@ -3,6 +3,12 @@ description: "Page en cours de construction"
 markdown: kramdown
 highlighter: rouge
 theme: minima
+minima:
+  nav:
+    - title: "Accueil"
+      url: /
+    - title: "Général"
+      url: /test/encore/
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
