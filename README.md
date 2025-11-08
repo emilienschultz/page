@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Accueil2"
+title: "Accueil"
 permalink: /
 ---
 
